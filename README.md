@@ -30,7 +30,11 @@ This tutorial shows you how to make a background for the main menu. To get start
 
 ### 6. [Lua Script API Documentation by DotZZ](https://gamebanana.com/tuts/15333)
 **Description:**  
-This tutorial has literally everything you need for FNF lua coding. This has really useful functions for coding.
+This guide has literally everything you need for FNF lua coding. This has really useful functions for coding.
+
+### 7. [Funkin' MIDI Mapper](https://github.com/BobbyDrawz/FunkinMIDIMapper)
+**Description:**  
+This program is a fork of SNIFF [SiIva Note Importer for FNF] that has many modes for charting, recharting, and adjusting BPM sync.
 
 ## How to Use These Resources
 
@@ -41,11 +45,5 @@ This tutorial has literally everything you need for FNF lua coding. This has rea
 ## Contribution
 
 If you have any additional resources or suggestions to improve this collection, feel free to open an issue or submit a pull request. The goal is to create a comprehensive resource hub for the FNF modding community.
-
-## License
-
-These resources are provided under the [Your License Here]. Make sure to attribute appropriately when using or sharing these resources.
-
----
 
 Happy modding!
