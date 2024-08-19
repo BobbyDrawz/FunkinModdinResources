@@ -4,17 +4,17 @@ Welcome to my collection of resources for modding **Friday Night Funkin'**. Whet
 
 ## DISCLAIMER
 
-I am not the owner of all of these. I will specify whoever made them.
+I am not the owner of all of these. I will specify whoever made them. If there is no definition of who made it, then it's made by me.
 
 ## Resources
 
-### 1. [FunkinSongStarterPack](link_to_your_resource)
+### 1. [FunkinSongStarterPack](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/FSSP)
 **Description:**  
 This pack includes everything you need to get started with creating or remixing songs in the style of Friday Night Funkin'. It includes an FL Studio mixer preset (`FunkinFX.fst`) to give your vocals that authentic FNF sound, a DirectWave preset (`Boyfriend.dwp`) for BF's vocals [no pitch edits], and raw unedited BF chromatic scales for further customization.
 
 ### 2. [Psych Engine PackGen](link_to_your_resource)
 **Description:**  
-A C# executable that quickly generates `pack.json` files for Psych Engine mods. Customize settings like the mod's name, description, color scheme, and more with an easy-to-use interface. Perfect for streamlining the process of creating new modpacks.
+A C# executable that quickly generates `pack.json` files for Psych Engine mods. Customize settings like the mod's name, description, color in mod menu, and more with an easy-to-use interface. Perfect for streamlining the process of creating new modpacks.
 
 ### 3. [FNF Modding Tutorial Collection](link_to_your_resource)
 **Description:**  
