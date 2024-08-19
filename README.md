@@ -24,6 +24,10 @@ A tutorial on how to make icons for Friday Night Funkin'. Covers Normal HPBar Ic
 **Description:**  
 A template modpack designed to help translators create language packs for FNF mods. This resource includes `.lang` files, necessary images, and instructions for translating dialogue, menus, and more.
 
+### 5. [Main Menu BG Tutorial by SIG7](https://gamebanana.com/tuts/16972)
+**Description:**  
+This tutorial shows you how to make a background for the main menu. To get started, download the menuStarterPlane.png image from this github repo as it has the appropriate dimensions.
+
 
 ## How to Use These Resources
 
