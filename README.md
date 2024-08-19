@@ -12,15 +12,15 @@ I am not the owner of all of these. I will specify whoever made them. If there i
 **Description:**  
 This pack includes everything you need to get started with creating or remixing songs in the style of Friday Night Funkin'. It includes an FL Studio mixer preset (`FunkinFX.fst`) to give your vocals that authentic FNF sound, a DirectWave preset (`Boyfriend.dwp`) for BF's vocals [no pitch edits], and raw unedited BF chromatic scales for further customization.
 
-### 2. [Psych Engine PackGen](link_to_your_resource)
+### 2. [Psych Engine PackGen](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/psychpackshit)
 **Description:**  
 A C# executable that quickly generates `pack.json` files for Psych Engine mods. Customize settings like the mod's name, description, color in mod menu, and more with an easy-to-use interface. Perfect for streamlining the process of creating new modpacks.
 
-### 3. [FNF Modding Tutorial Collection](link_to_your_resource)
+### 3. [FNF Icon Tutorial by SIG7](https://gamebanana.com/tuts/17214)
 **Description:**  
-A comprehensive collection of tutorials that cover every aspect of modding Friday Night Funkin'. From character creation to charting songs and coding mechanics, this collection has it all.
+A tutorial on how to make icons for Friday Night Funkin'. Covers Normal HPBar Icons, Pixel HPBar Icons, and Application Icons.
 
-### 4. [Language Template for Translation](link_to_your_resource)
+### 4. [Language Template for Translation](https://gamebanana.com/mods/536068)
 **Description:**  
 A template modpack designed to help translators create language packs for FNF mods. This resource includes `.lang` files, necessary images, and instructions for translating dialogue, menus, and more.
 
