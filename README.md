@@ -28,6 +28,9 @@ A template modpack designed to help translators create language packs for FNF mo
 **Description:**  
 This tutorial shows you how to make a background for the main menu. To get started, download the menuStarterPlane.png image from this github repo as it has the appropriate dimensions.
 
+### 6. [Lua Script API Documentation by DotZZ](https://gamebanana.com/tuts/15333)
+**Description:**  
+This tutorial has literally everything you need for FNF lua coding. This has really useful functions for coding.
 
 ## How to Use These Resources
 
