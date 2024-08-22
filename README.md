@@ -26,7 +26,7 @@ A template modpack designed to help translators create language packs for FNF mo
 
 ### 5. [Main Menu BG Tutorial by SIG7](https://gamebanana.com/tuts/16972)
 **Description:**  
-This tutorial shows you how to make a background for the main menu. To get started, download the menuStarterPlane.png image from this github repo as it has the appropriate dimensions.
+This tutorial shows you how to make a background for the main menu. To get started, the dimensions for the menuBG images are 1286x730.
 
 ### 6. [Lua Script API Documentation by DotZZ](https://gamebanana.com/tuts/15333)
 **Description:**  
@@ -35,6 +35,9 @@ This guide has literally everything you need for FNF lua coding. This has really
 ### 7. [Funkin' MIDI Mapper](https://github.com/BobbyDrawz/FunkinMIDIMapper)
 **Description:**  
 This program is a fork of SNIFF [SiIva Note Importer for FNF] that has many modes for charting, recharting, and adjusting BPM sync.
+
+## Tips
+-For custom story mode difficulties, I like to start with a 308x67 image. Those are the dimensions of the "normal" difficulty image, which is the largest out of easy, normal, and hard diff images.
 
 ## How to Use These Resources
 
