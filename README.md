@@ -8,7 +8,7 @@ I am not the owner of all of these. I will specify whoever made them. If there i
 
 ## Resources
 
-### 1. [FNFizer](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/fnfizer)
+### 1. [FNFizer {creator is anonymous}](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/fnfizer)
 **Description:**  
 This FL Studio preset is not mine, but is pretty useful for making FNF-style vocals, with settings for reverb, delay, bitcrush, compression, and panning. This re-release also includes a custom unedited no-pitch-fx Boyfriend DWP by me [custom chromatic by loganMcOof].
 
