@@ -8,9 +8,9 @@ I am not the owner of all of these. I will specify whoever made them. If there i
 
 ## Resources
 
-### 1. [FunkinSongStarterPack](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/FSSP)
+### 1. [FNFizer](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/fnfizer)
 **Description:**  
-This pack includes everything you need to get started with creating or remixing songs in the style of Friday Night Funkin'. It includes an FL Studio mixer preset (`FunkinFX.fst`) to give your vocals that authentic FNF sound, a DirectWave preset (`Boyfriend.dwp`) for BF's vocals [no pitch edits], and raw unedited BF chromatic scales for further customization.
+This FL Studio preset is not mine, but is pretty useful for making FNF-style vocals, with settings for reverb, delay, bitcrush, compression, and panning. This re-release also includes a custom unedited no-pitch-fx Boyfriend DWP by me [custom chromatic by loganMcOof].
 
 ### 2. [Psych Engine PackGen](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/psychpackshit)
 **Description:**  
