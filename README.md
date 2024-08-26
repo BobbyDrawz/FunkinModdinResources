@@ -43,6 +43,8 @@ This program is a fork of SNIFF [SiIva Note Importer for FNF] that has many mode
 
 -DaPootisBird's resources from the psych engine discord and other sources are in the pootisScripts folder
 
+-for sprite generation i use [Free Texture Packer](https://free-tex-packer.com) or UncertainProductions' [Spritesheet and XML Generator](https://gamebanana.com/tools/7136)
+
 ## How to Use These Resources
 
 1. **Download**: Click on the links to access each resource.
