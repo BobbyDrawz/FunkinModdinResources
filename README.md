@@ -30,7 +30,7 @@ This tutorial shows you how to make a background for the main menu. To get start
 
 ### 6. [Lua Script API Documentation by DotZZ](https://gamebanana.com/tuts/15333)
 **Description:**  
-This guide has literally everything you need for FNF lua coding. This has really useful functions for coding.
+This guide has literally everything you need for FNF lua coding. Really useful functions n' shit.
 
 ### 7. [Funkin' MIDI Mapper](https://github.com/BobbyDrawz/FunkinMIDIMapper)
 **Description:**  
