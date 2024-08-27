@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Created with Free texture packer v0.6.7 http://free-tex-packer.com-->
+<TextureAtlas imagePath="invis_texture_256.png" width="256" height="256" scale="1" format="RGBA8888">
+  <sprite n="image_texture_256.png" x="0" y="0" w="256" h="256" pX="0.5" pY="0.5"/>
+</TextureAtlas>
