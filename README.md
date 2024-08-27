@@ -36,7 +36,7 @@ This guide has literally everything you need for FNF lua coding. Really useful f
 **Description:**  
 This program is a fork of SNIFF [SiIva Note Importer for FNF] that has many modes for charting, recharting, and adjusting BPM sync.
 
-## Tips
+## Tips and Tricks
 -For custom story mode difficulties, I like to start with a 308x67 image. Those are the dimensions of the "normal" difficulty image, which is the largest out of easy, normal, and hard diff images.
 
 -resources from the FNMC/Psych Ward Discord server can be found under the discord shit folder
@@ -44,6 +44,8 @@ This program is a fork of SNIFF [SiIva Note Importer for FNF] that has many mode
 -DaPootisBird's resources from the psych engine discord and other sources are in the pootisScripts folder
 
 -for sprite generation i use [Free Texture Packer](https://free-tex-packer.com) or UncertainProductions' [Spritesheet and XML Generator](https://gamebanana.com/tools/7136)
+
+-for shaders I make them on [Shadertoy](https://www.shadertoy.com) and use a ShadertoyToFlixel shader converter found [here](https://theleername.github.io/ShadertoyToFlixel)
 
 ## How to Use These Resources
 
