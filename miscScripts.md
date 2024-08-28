@@ -36,6 +36,13 @@ These are some scripts I use for FNF Psych Engine. *These are not mine*.
 [psych switcher download here](https://gamebanana.com/tools/17404) 
 
 ---
+
+### Easy Shader Code by Skellix [presumably]
+**Description:** this is sourced from skellix's fanmade weekend 2 mod. just go to data/outcast/fireShader.lua and edit the shader code.
+[skellix shader code download here](https://gamebanana.com/mods/526900) 
+
+---
+
 <!-- more scripts TBA -->
 
 ## Contributing
