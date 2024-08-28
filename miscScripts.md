@@ -30,6 +30,12 @@ These are some scripts I use for FNF Psych Engine. *These are not mine*.
 
 ---
 
+### PsychSwitcher by Realmzer
+**Description:** simple haxe dependency installer for different versions for easy hscript/source code programming
+
+[psych switcher download here](https://gamebanana.com/tools/17404) 
+
+---
 <!-- more scripts TBA -->
 
 ## Contributing
