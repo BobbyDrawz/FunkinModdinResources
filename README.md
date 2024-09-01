@@ -12,9 +12,9 @@ I am not the owner of all of these. I will specify whoever made them. If there i
 **Description:**  
 This FL Studio preset is not mine, but is pretty useful for making FNF-style vocals, with settings for reverb, delay, bitcrush, compression, and panning. This re-release also includes a custom unedited no-pitch-fx Boyfriend DWP by me [custom chromatic by loganMcOof].
 
-### 2. [Psych Engine PackGen](https://github.com/BobbyDrawz/FunkinModdinResources/releases/tag/psychpackshit)
+### 2. [Unofficial Psych Engine Modding Guide](https://github.com/BobbyDrawz/psych-engine-modding-docs-unofficial/blob/main/README.md)
 **Description:**  
-A C# executable that quickly generates `pack.json` files for Psych Engine mods. Customize settings like the mod's name, description, color in mod menu, and more with an easy-to-use interface. Perfect for streamlining the process of creating new modpacks.
+Basically my explaining of common resources. That's it.
 
 ### 3. [FNF Icon Tutorial by SIG7](https://gamebanana.com/tuts/17214)
 **Description:**  
